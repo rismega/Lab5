@@ -4,4 +4,4 @@
 ## LATIHAN JAVASCRIPT
 kode tag untuk paragraf adalah '<p>'
 ini adalah tampilannya
-![Image](screenshoot/ss21.PNG)
+![Image](screenshot/ss21.PNG)
